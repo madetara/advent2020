@@ -22,3 +22,4 @@ Day | Language | Experience
 7 | Dart | 0
 8 | D | 0
 9 | Nim | 0
+10 | Racket | 0
