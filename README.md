@@ -24,3 +24,4 @@ Day | Language | Experience
 9 | Nim | 0
 10 | Racket | 0
 11 | Julia | 0
+12 | R | 0
