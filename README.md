@@ -25,3 +25,4 @@ Day | Language | Experience
 10 | Racket | 0
 11 | Julia | 0
 12 | R | 0
+13 | Haskell + Rust (bruteforce) | 1 + 2
