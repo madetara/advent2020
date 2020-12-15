@@ -27,3 +27,4 @@ Day | Language | Experience
 12 | R | 0
 13 | Haskell + Rust (bruteforce) | 1 + 2
 14 | PHP | 0
+15 | F# | 1
